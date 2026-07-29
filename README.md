@@ -1,1 +1,1 @@
-# Ejercicio-06-estructuras-condicionales-y-repetitivas-JS
+# Estructuras condicionales y repetitivas con JS
